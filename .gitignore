@@ -11,6 +11,12 @@ dist
 *.user
 *.userosscache
 *.sln.docstates
+*.idea*
+*DS_Store*
+etc/
+lib/
+pyvenv.cfg
+share/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
